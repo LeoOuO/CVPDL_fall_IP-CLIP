@@ -4,12 +4,12 @@ INPUT:
 
 DATASET:
   NAME: "OfficeHome"
-  SOURCE_DOMAINS: ["art"]
-#  SOURCE_DOMAINS: ["clipart"]
-#  SOURCE_DOMAINS: ["product"]
-#  SOURCE_DOMAINS: ["real_world"]
+  SOURCE_DOMAINS: ["Art"]
+  #  SOURCE_DOMAINS: ["clipart"]
+  #  SOURCE_DOMAINS: ["product"]
+  #  SOURCE_DOMAINS: ["real_world"]
 
-  TARGET_DOMAINS: ["art"]
+  TARGET_DOMAINS: ["Art"]
 #  TARGET_DOMAINS: ["clipart"]
 #  TARGET_DOMAINS: ["product"]
 #  TARGET_DOMAINS: ["real_world"]
